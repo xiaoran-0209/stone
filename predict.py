@@ -12,7 +12,6 @@ from PIL import Image
 
 from unet import Unet
 
-#from unet2plus import  Unet
 
 if __name__ == "__main__":
     #-------------------------------------------------------------------------#

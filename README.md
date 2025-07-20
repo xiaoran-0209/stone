@@ -10,3 +10,5 @@ Train
 python train.py
 Predict
 python Predict.py
+# stone data
+私有数据集，如果有需要，联系邮箱：2023208055@cqust.edu.cn
